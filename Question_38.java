@@ -1,13 +1,11 @@
-//Write a program to Print reverse pyramid.
+public class Question_38 {
+    //Write a program to Print reverse pyramid.
 //*********
 //*******
 //*****
 //***
 //*
 
-package Day_10;
-
-public class Question_38 {
     public static void main(String[] args) {
         int rows = 5;
 
@@ -19,3 +17,5 @@ public class Question_38 {
         }
     }
 }
+
+
