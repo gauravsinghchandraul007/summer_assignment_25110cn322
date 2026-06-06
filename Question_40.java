@@ -5,7 +5,6 @@
 //ABCDCBA
 //ABCDEDCBA
 
-package Day_10;
 
 public class Question_40 {
     public static void main(String[] args) {
@@ -27,3 +26,4 @@ public class Question_40 {
         }
     }
 }
+
