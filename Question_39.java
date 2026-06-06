@@ -1,13 +1,10 @@
-//Write a program to Print number pyramid.
+public class Question_39 {
+    //Write a program to Print number pyramid.
 //1
 //121
 //12321
 //1234321
 //123454321
-
-package Day_10;
-
-public class Question_39 {
     public static void main(String[] args) {
         int rows = 5;
 
@@ -27,3 +24,5 @@ public class Question_39 {
         }
     }
 }
+
+
