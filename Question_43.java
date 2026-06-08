@@ -18,14 +18,6 @@ public class Question_43 { public class PrimeCheck {
     public static void main(String[] args) {
         
 
-        System.out.print("Enter a number: ");
-        int num = sc.nextInt();
-
-        if (isPrime(num))
-            System.out.println(num + " is a Prime Number.");
-        else
-            System.out.println(num + " is not a Prime Number.");
-
-        sc.close();
+        
     }}}
     
