@@ -17,11 +17,6 @@ public class Question_77 {
         int r2 = sc.nextInt();
         int c2 = sc.nextInt();
 
-        // Check if multiplication is possible
-        if (c1 != r2) {
-            System.out.println("Matrix multiplication is not possible.");
-            return;
-        }
 
         int[][] A = new int[r1][c1];
         int[][] B = new int[r2][c2];
